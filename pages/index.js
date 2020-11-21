@@ -17,14 +17,9 @@ export default function Home({ allPostsData }) {
           declaration in UK.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a> .)
-        </p>
-        <p>
-          Read
-          <Link href="/posts/first-post">
-            <a> this page!</a>
-          </Link>
+          This blog is built by following the{" "}
+          <a href="https://nextjs.org/learn"> Next.js tutorial</a>. I highly
+          recomend it as it was one of the most fun tutorials I have ever done.
         </p>
       </section>
       <section className={utilStyles.headingMd}>…</section>
