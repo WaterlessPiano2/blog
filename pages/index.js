@@ -11,12 +11,12 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi I am Chad. I am a web developer with interest in
-          customs declaration in UK.
+          Hi I am Chad. I am a web developer with interest in customs
+          declaration in UK.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a> .)
         </p>
         <p>
           Read
