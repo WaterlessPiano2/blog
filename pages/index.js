@@ -17,6 +17,11 @@ export default function Home({ allPostsData }) {
           declaration in UK.
         </p>
         <p>
+          <a href="https://github.com/WaterlessPiano2">Github.</a>
+          {"        "}
+          <a href="https://www.linkedin.com/in/chadderya/">LinkedIn.</a>
+        </p>
+        <p>
           This blog is built by following the{" "}
           <a href="https://nextjs.org/learn"> Next.js tutorial</a>. I highly
           recomend it as it was one of the most fun tutorials I have ever done.
