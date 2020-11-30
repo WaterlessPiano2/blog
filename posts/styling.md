@@ -1,5 +1,5 @@
 ---
-title: "On Styling..."
+title: "My styling opinion (and first ever blog)"
 date: "2020-11-26"
 ---
 
