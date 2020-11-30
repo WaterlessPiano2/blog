@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# private posts
+posts/declaration-form-part1.md
